@@ -1,0 +1,14 @@
+# Ignore node modules
+node_modules
+
+#Ignore .vscode
+.vscode
+
+#Ignore .env
+.env
+
+#Ignore .DS_Sore
+.DS_Store
+
+#Ignore backend template
+backend_template.sh
